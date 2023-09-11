@@ -1,0 +1,31 @@
+body {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: darkgray;
+}
+
+h3 { 
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.Sakura {
+    padding: 0px 25px;
+}
+
+.baleinha {
+    text-align: center;
+}
+
+.git { 
+    text-align: center;
+}
